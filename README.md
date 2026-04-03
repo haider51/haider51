@@ -4,7 +4,7 @@
 
 I am an Informatics Engineering student with a proven track record in algorithmic problem-solving and international robotics competitions. I specialize in building optimized Machine Learning models for edge devices and robust backend systems.
 
-📫 **Reach me:** [haedersalamh51@gmail.com](mailto:haedersalamh51@gmail.com) | 💼 **LinkedIn:** [Haider Salamah](YOUR_LINKEDIN_URL)
+📫 **Reach me:** [haedersalamh51@gmail.com](mailto:haedersalamh51@gmail.com) | 💼 **LinkedIn:** [Haider Salamah](https://www.linkedin.com/in/haider-salameh)
 
 ---
 
