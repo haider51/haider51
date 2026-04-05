@@ -9,7 +9,6 @@ I am an Informatics Engineering student with a proven track record in algorithmi
 ---
 
 ### 🚀 Highlighted Projects
-*I am currently updating my GitHub with my past projects. Check back soon for the source code to:*
 * **AI-Powered Disease Prevention System:** A real-time Computer Vision model deployed on low-power edge devices (Python, OpenCV, TensorFlow).
 * **Mobile Employee Authentication:** A cost-effective attendance tracker using Aruco marker recognition to replace biometric hardware.
 * **Autonomous Healthcare Robot:** 1st Place National Winner at the World Robot Olympiad (WRO).
